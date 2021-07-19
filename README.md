@@ -12,3 +12,6 @@ I am using a bench mark datset that can be found here: https://snap.stanford.edu
 # Content  
 The tutorial consists of an ipynb file and the dataset in the data folder. 
 
+# A sample graph
+
+![sg](figures/graphlish.png)
